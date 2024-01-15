@@ -1,3 +1,3 @@
 # Project
 
-This repository contains the codes of the [Backend Master Class](https://bit.ly/backendmaster).
+This repository contains the application developed during the [Backend Master Class](https://bit.ly/backendmaster).
