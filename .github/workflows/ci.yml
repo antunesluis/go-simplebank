@@ -14,8 +14,8 @@ jobs:
       postgres:
         image: postgres16.1
         env:
-          POSTGRES_PASSWORD: secret
           POSTGRES_USER: root
+          POSTGRES_PASSWORD: secret
           POSTGRES_DB: simple_bank
         options: >-
           --health-cmd pg_isready
