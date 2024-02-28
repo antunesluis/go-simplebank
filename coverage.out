@@ -1,0 +1,21 @@
+mode: set
+github.com/antunesluis/simplebank/api/account.go:16.55,18.49 2 0
+github.com/antunesluis/simplebank/api/account.go:18.49,21.3 2 0
+github.com/antunesluis/simplebank/api/account.go:23.2,30.16 3 0
+github.com/antunesluis/simplebank/api/account.go:30.16,33.3 2 0
+github.com/antunesluis/simplebank/api/account.go:35.2,35.34 1 0
+github.com/antunesluis/simplebank/api/account.go:42.52,44.48 2 1
+github.com/antunesluis/simplebank/api/account.go:44.48,47.3 2 1
+github.com/antunesluis/simplebank/api/account.go:49.2,50.16 2 1
+github.com/antunesluis/simplebank/api/account.go:50.16,51.27 1 1
+github.com/antunesluis/simplebank/api/account.go:51.27,54.4 2 1
+github.com/antunesluis/simplebank/api/account.go:56.3,57.9 2 1
+github.com/antunesluis/simplebank/api/account.go:60.2,60.34 1 1
+github.com/antunesluis/simplebank/api/account.go:68.53,70.50 2 0
+github.com/antunesluis/simplebank/api/account.go:70.50,73.3 2 0
+github.com/antunesluis/simplebank/api/account.go:75.2,81.16 3 0
+github.com/antunesluis/simplebank/api/account.go:81.16,84.3 2 0
+github.com/antunesluis/simplebank/api/account.go:86.2,86.35 1 0
+github.com/antunesluis/simplebank/api/server.go:15.40,25.2 7 1
+github.com/antunesluis/simplebank/api/server.go:28.51,30.2 1 0
+github.com/antunesluis/simplebank/api/server.go:32.37,34.2 1 1
