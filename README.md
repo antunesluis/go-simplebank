@@ -8,7 +8,7 @@ The project is a simple banking system that allows creating and managing bank ac
 
 - [golang-migrate](https://github.com/golang-migrate/migrate): Used for database migratione.
 - [SQLC](https://github.com/sqlc-dev/sqlc): Used to generate CRUD code.
-- [Testify](https://github.com/stretchr/testify): Testify para escrever testes unitários.
+- [Testify](https://github.com/stretchr/testify): Used for writing unit tests.
 - [Gin Framework](https://github.com/gin-gonic/gin): Used for implementing the REST API.
 - [Golang Viper](https://github.com/spf13/viper): Used for configuring files and environment variables.
 - [GoMock](https://github.com/uber-go/mock): Used for mocking the database.
